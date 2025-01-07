@@ -57,6 +57,8 @@ Proper error handling is in place to catch and display any issues with API reque
 ![image_alt](https://github.com/Ritik046/stringventure/blob/ea62b643dc6f1ddad00fc7f35b21469f469f3e39/lib4.png)
 # now admin have access to grant request or decline it according to avilability of book
 ![image_alt](https://github.com/Ritik046/stringventure/blob/154d73d809502909a68e3ae5ed7ea7d816542d53/lb8.png)
+# admin can add books which is visible to every user and user can request it
+ ![image_alt](https://github.com/Ritik046/stringventure/blob/589875473955ef3c9001130d386b0f7ec62f4726/lib3.png)
 
 
 

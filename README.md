@@ -47,4 +47,8 @@ The backend API is connected to a cloud environment (e.g., Render) using environ
 Proper error handling is in place to catch and display any issues with API requests or database operations.
 
 
+# first user have to signup
+![image_alt](https://github.com/Ritik046/stringventure/blob/7783992316e585128ef7ffdef029061a49b3b192/lib2.png)
+
+
 

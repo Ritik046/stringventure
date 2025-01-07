@@ -53,6 +53,8 @@ Proper error handling is in place to catch and display any issues with API reque
 ![image_alt](https://github.com/Ritik046/stringventure/blob/f91f9325b17bef106088c903d8e585d829869dfb/lib1.png)
 # user have to fill a form to request a book so that it is given by admin if available
 ![image_alt](https://github.com/Ritik046/stringventure/blob/20ebcfbb7c51820a7d42f73b97dccc21a8edd4f1/lb7.png)
+# admin can login using their credential here for demo purpose-(userid: admin@123.com , password: 123456)
+![image_alt](https://github.com/Ritik046/stringventure/blob/ea62b643dc6f1ddad00fc7f35b21469f469f3e39/lib4.png)
 
 
 

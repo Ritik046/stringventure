@@ -59,6 +59,7 @@ Proper error handling is in place to catch and display any issues with API reque
 ![image_alt](https://github.com/Ritik046/stringventure/blob/154d73d809502909a68e3ae5ed7ea7d816542d53/lb8.png)
 # admin can add books which is visible to every user and user can request it
  ![image_alt](https://github.com/Ritik046/stringventure/blob/589875473955ef3c9001130d386b0f7ec62f4726/lib3.png)
-
+# backend is hosted on Render its url used in frontend for connection 
+![image_alt](https://github.com/Ritik046/stringventure/blob/294fdd9b0c746d0d63c5dd3cfde90fe4fc17af45/lib5.png)
 
 

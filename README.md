@@ -61,5 +61,7 @@ Proper error handling is in place to catch and display any issues with API reque
  ![image_alt](https://github.com/Ritik046/stringventure/blob/589875473955ef3c9001130d386b0f7ec62f4726/lib3.png)
 # backend is hosted on Render its url used in frontend for connection 
 ![image_alt](https://github.com/Ritik046/stringventure/blob/294fdd9b0c746d0d63c5dd3cfde90fe4fc17af45/lib5.png)
+# the frontend is hosted on Netlify, while the backend API is deployed on Render, with the Render URL being used as the endpoint for API requests.
+![image_alt](https://github.com/Ritik046/stringventure/blob/edf79f87b567bedfcc7ac95b3f3d9a44a2531ad0/lib6.png)
 
 
